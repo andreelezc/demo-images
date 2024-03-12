@@ -1,0 +1,6 @@
+01_int - Baby Names Popularity - https://demos.flourish.studio/namehistory/?names=Mary,John,William,Elizabeth,Thomas,Sarah# 
+02_int - A Disappearing Planet - https://projects.propublica.org/extinctions/
+03_int - 30 Years of American Anxieties - https://pudding.cool/2018/11/dearabby/
+04_int - Japan: Facts and Curiosities - https://public.tableau.com/app/profile/nisamara/viz/Japan-Factscuriosities/Japandashboard
+05_int - Diary of a Food Tracker - https://www.nytimes.com/interactive/2015/11/17/health/wiredwell-food-diary-super-tracker.html
+06_int - Covid chaos: how the UK handled the coronavirus crisis - https://www.theguardian.com/world/ng-interactive/2020/dec/16/covid-chaos-a-timeline-of-the-uks-handling-of-the-coronavirus-crisis
